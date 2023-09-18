@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -Wall -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.6 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/PA1.dir/FileHandler.cpp.o CMakeFiles/PA1.dir/Game.cpp.o CMakeFiles/PA1.dir/main.cpp.o CMakeFiles/PA1.dir/player.cpp.o -o PA1 

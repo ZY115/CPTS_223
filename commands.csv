@@ -1,0 +1,30 @@
+pwd,It displays the path to the file system you are currently on
+ls,It can be used to view the contents of a directory
+cd,It is used to enter different directories
+mkdir,It can be used to create a new folder in the file system
+rmdir,Can be used to delete empty directories that are no longer needed
+rm,Can be used to delete files or non-empty directories
+cp,Used to create a copy of a file or directory
+mv,Can be used to move a file or directory from one location to another
+ssh,Used to log in remotely to another computer or server to securely execute commands and transfer files
+scp,Used to securely copy files between the local and remote systems
+man,For detailed information about Linux commands and their usage
+g++,For compiling and building C++ programs
+gcc,Compiles and builds C programs
+make,Automates the compilation and building of projects
+ps,Can be used to view information about running processes
+kill,Used to terminate a running process by its process ID
+top,Shows the running processes and resource usage on the system
+who,Displays a list of users currently logged into the system
+chmod,Used to modify the access permissions of a file or directory
+cat,Can be used to view the contents of a text file
+alias,"Used to create simplified, customized command aliases for frequently used commands"
+chown,Used to change the owner of a file or directory
+df,Can be used to view disk space information on a file system
+grep,Used to search for text patterns in text files
+echo,Used to display text in the terminal
+exit,Used to exit a terminal or shell session
+clear,Clears the text on the terminal screen
+find,Finds a file or directory on the file system
+finger,Used to view user information on the system
+free,Can be used to view system memory usage
