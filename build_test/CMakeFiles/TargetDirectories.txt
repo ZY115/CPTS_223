@@ -1,0 +1,3 @@
+/Users/yuhang/WSU/2023FALL/CPTS_223/MA4/build_test/CMakeFiles/MA4.dir
+/Users/yuhang/WSU/2023FALL/CPTS_223/MA4/build_test/CMakeFiles/edit_cache.dir
+/Users/yuhang/WSU/2023FALL/CPTS_223/MA4/build_test/CMakeFiles/rebuild_cache.dir
